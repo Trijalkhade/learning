@@ -66,4 +66,48 @@
       <li>once</li>
     </ul>
   </ul>
+  <li>Simplilearn</li>
+  <ul type=*>
+    <li>Visual Studio Code</li>
+    <li>Data types</li>
+    <li>Variables</li>
+    <li>Operations</li>
+    <li>pointer and pointer to function</li>
+  </ul>
+</ol>
+<h2>C++ Programming</h2>
+<ol type="A">
+  <li>W3schools</li>
+  <ul type=*>
+    <li>Basics</li>
+    <li>Data Types</li>
+    <li>Opertors</li>
+    <li>Strings</li>
+    <li>math</li>
+    <li>Boolean</li>
+    <li>Conditional Statements</li>
+    <ul type="*">
+      <li>if-else</li>
+      <li>switch-case</li>
+    </ul>
+    <li>Iterative Approach</li>
+    <ul type="*">
+      <li>While loop</li>
+      <li>for loop/</li>
+      <li>Break/Continue</li>
+    </ul>
+    <li>Array</li>
+    <li>Structure</li>
+    <li>Enum</li>
+    <li>Reference</li>
+    <li>pointer</li>
+    <li>Functions</li>
+    <ul type="*">
+      <li>Parameters</li>
+      <li>Overloading</li>
+      <li>scope</li>
+      <li>Resolution</li>
+    </ul>
+    <li>
+  </ul>
 </ol>
